@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Lifting weight to max height
+title: Update to lifting weight to max height
 description: Class project with hand drawn diagrams
 technologies: [Paper and pen]
 image: /assets/images/lifting-weight-update.jpg
