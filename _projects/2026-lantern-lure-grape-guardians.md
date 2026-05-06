@@ -275,42 +275,63 @@ Prior to designing and fabricating our final prototype, we built an initial prot
 
 
 ### Components:
+
 3D-Prints:
+
 ● Ridges (x54 for final; x9 for prototype)
+
 ○ Specs: 0.875” tall, widths vary from .25”-1.25”
+
 ○ 3D printed out of PLA and done at the RPL
 
 ● Roof and Wall
+
 ○ Specs: radius = 4.5”, matching ridges 3D printed with roof as one piece
+
 ○ 3D printed out of PLA and done at the RPL
 
 ● Crown and pinion
+
 ○ Specs: 96 and 8 teeth, respectively
+
 ○ 3D printed out of PLA and done at the RPL
 
 ● Crank
+
 ○ Specs: 4” long
+
 ○ 3D printed out of PLA and done at the RPL
 
 ● Trap Body
+
 ○ 9” diameter, 9.5” height
+
 ○ 3D printed out of PLA and done at the RPL
 
 ● Containment Tub
+
 ○ Specs: 295.3 in3 volume
+
 ○ 3D printed out of PLA and done at the RPL
 
 Acrylic
+
 ● Clear Cast Acrylic Sheet (1 for prototype and 1 for final)
+
 ○ Specs: 12" x 12" x 1/16"; McMaster 8560K171
+
 ○ Laser cut at RPL
 
 Wood
+
 ● 1/16” plywood 12”x12” sheet
+
 ○ Laser cut at RPL
 
 Bolts and Nuts
+
 ● x4 each for initial prototype
+
 ● Free from TDS
 
 
