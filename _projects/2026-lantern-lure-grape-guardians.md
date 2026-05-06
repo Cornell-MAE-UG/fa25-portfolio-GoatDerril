@@ -20,15 +20,13 @@ This project was about stopping the invasive spotted lanternflies from hurting v
 Preventing SLEs from landing on grapevines
 Team: Grape Guardians.
 Clients: Cornell CALS Extension / E&J Gallo Winery / National Grape
-Proposed statement
-The problem we are trying to address is that SLEs tend to land on grapes during their life cycle.
-This is backed by the fact that there's an average of 9.3 SLE per vine when looking at vineyards in areas infested with SLFs [1]. Additionally, a 2025 study estimates that in three years, there will be an 8% decrease in yield and a 10% decrease in price of grapes due to a drop in quality. Both of these statistics are major issues, as there are no current ways to separate SLFs from harvested grapes, so we want to prevent the SLFs from getting to the vines in the first place.
+Proposed statement: The problem we are trying to address is that SLEs tend to land on grapes during their life cycle. This is backed by the fact that there's an average of 9.3 SLE per vine when looking at vineyards in areas infested with SLFs [1]. Additionally, a 2025 study estimates that in three years, there will be an 8% decrease in yield and a 10% decrease in price of grapes due to a drop in quality. Both of these statistics are major issues, as there are no current ways to separate SLFs from harvested grapes, so we want to prevent the SLFs from getting to the vines in the first place.
 Why it matters:
 • Crucial to limit impacts of SLEs on the grape industry - SLEs harm profit and economic viability
 • SLEs live longer when eating grapes - preventing access could help to inhibit the spread of
 Proposed Directions:
-Concept A : Light trap
-Description and Use : Place large lights at the edges of grape fields to attract SLEs. On the light, there would be a one way trap to prevent the SLEs from leaving.
+Concept A: Light trap
+Description and Use: Place large lights at the edges of grape fields to attract SLEs. On the light, there would be a one way trap to prevent the SLEs from leaving.
 Why it's better than the status quo:
 • Reduces chemical use: Unlike insecticide spraying, the light trap doesn't use chemicals, protecting grape quality, beneficial insects, and the surrounding environment.
 • Draws SLF away from vines: By Attracting SLF to perimeter lights, it protects grape plants directly.
@@ -56,7 +54,7 @@ Decision affected: Affects how much we focus on allowing insects that aren't SLE
 
 ---
 
-## Part descriptions:
+## Part Descriptions:
 
 | Part           | Description |
 |----------------|-------------|
