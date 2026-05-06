@@ -6,6 +6,10 @@ technologies: [Various]
 image: /assets/images/odp5-image.png
 ---
 
+### Lantern Lure
+**The Grape Guardians**  
+Ashlyn Roeder, Asher Ciardiello, Ira Geller, Nicholas Letendre, Mamadou Barry
+
 ## Project Milestones
 
 This project was about stopping the invasive spotted lanternflies from hurting vineyard production in New York. We were tasked with designing a mechanical product that could stop this from continuing to happen. We designed a spinning light trap that would lure lanternflies to the edges of the grape vineyards using light, and trap them using rotating blades, crushing them or forcing them into a container. 
@@ -175,8 +179,6 @@ properties on the top table of the trap, then rotate it to show how the fly will
 
 ## Client Report {#client-report}
 
-**The Grape Guardians**  
-Ashlyn Roeder, Asher Ciardiello, Ira Geller, Nicholas Letendre, Mamadou Barry
 
 ---
 
