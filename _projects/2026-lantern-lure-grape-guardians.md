@@ -1,9 +1,9 @@
 ---
 layout: project
-title: Analysis of Pratt & Whitney F119
-description: Project to analyze specific device
-technologies: [Paper and pen]
-image: /assets/images/F-22-F119-turbofan.jpg
+title: Lantern Lure
+description: Project to create lanternfly solution
+technologies: [Various]
+image: /assets/images/odp5-image.png
 ---
 
 ## Project Milestones
