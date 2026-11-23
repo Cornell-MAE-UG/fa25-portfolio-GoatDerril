@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Fluid-Mechanical Dissection: Fan
+title: Fluid-Mechanical Dissection, Fan
 description: Analysis of a fan
-technologies: []
+technologies: [XFOIL]
 image: 
 ---
 
